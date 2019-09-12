@@ -1,7 +1,7 @@
 #include<ESP8266WebServer.h>
 ESP8266WebServer server;
-const char username[] ="sai";
-const char password[] ="raksha1999";
+const char username[] ="USERNAME";
+const char password[] ="PASSWORD";
 #define pin 16
 
 void setup() 
